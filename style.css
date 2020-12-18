@@ -1,0 +1,40 @@
+img
+{
+  width:175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+body
+{   background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    width:100%;
+  background-repeat:no-repeat;
+}
+p
+{
+  color:lightblue;
+}
+h1
+{
+  text-shadow:2px 2px #F8BBDO;
+}
+
+.menu
+{
+    list-style:none;
+    position: fixed;
+    width:100%;
+font-family: 'Nova Cut', cursive;
+    margin-top:0px;
+    font-size:20.9999999px;
+        top:0px;
+    
+    z-index: 10;
+}
+.links
+{
+    display:inline;
+        padding-top:5px;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
