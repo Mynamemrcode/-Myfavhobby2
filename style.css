@@ -3,7 +3,13 @@ img
   width:175px;
     margin-bottom: 50px;
     border-radius: 50%;
+transition: transform .2s;
 }
+
+
+
+img:hover { transform: scale(0.9); }
+
 body
 {   background: linear-gradient(#60ebeb 0%, #27ae60 100%);
     width:100%;
@@ -38,3 +44,19 @@ font-family: 'Nova Cut', cursive;
     padding-right: 10px;
     padding-bottom: 5px;
 }
+
+
+
+
+
+p
+{
+    color: darkgoldenrod
+}
+
+#Linkture
+{
+    height:95px;
+    width:195px;
+}
+
