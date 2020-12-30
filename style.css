@@ -1,46 +1,46 @@
-#main
-{
-  width:175px;
+#main {
+    width: 175px;
     margin-bottom: 50px;
     border-radius: 50%;
-transition: transform .2s;
+    transition: transform .2s;
 }
 
 
 
-img:hover { transform: scale(0.9); }
-
-body
-{   background: linear-gradient(#d2b48c  1%, #b29700 99%);
-    width:100%;
-  background-repeat:;
-}
-p
-{
-  color:lightblue;
-}
-h1
-{
-  text-shadow:2px 2px #F8BBDO;
+img:hover {
+    transform: scale(0.9);
 }
 
-.menu
-{
-    list-style:none;
+body {
+    background: linear-gradient(#d2b48c 1%, #b29700 99%);
+    width: 100%;
+    background-repeat: ;
+}
+
+p {
+    color: lightblue;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+.menu {
+    list-style: none;
     position: fixed;
-    width:100%;
-font-family: 'Nova Cut', cursive;
-    margin-top:0px;
-    font-size:20.9999999px;
-        top:0px;
-    
+    width: 100%;
+    font-family: 'Nova Cut', cursive;
+    margin-top: 0px;
+    font-size: 20.9999999px;
+    top: 0px;
+
     z-index: 10;
 }
-.links
-{
-    display:inline;
-        padding-top:5px;
-    padding-left:10px;
+
+.links {
+    display: inline;
+    padding-top: 5px;
+    padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 5px;
 }
@@ -49,18 +49,16 @@ font-family: 'Nova Cut', cursive;
 
 
 
-p
-{
-    color:chartreuse
+p {
+    color: chartreuse
 }
 
-#Linkture
-{
-   height:150px;
-    width:375px;
+#Linkture {
+    height: 150px;
+    width: 375px;
     margin-bottom: 50px;
     border-radius: 50%;
-transition: transform .2s;
+    transition: transform .2s;
 }
 
 
@@ -68,14 +66,12 @@ transition: transform .2s;
 
 
 
-h1
-{
-    color:darkturquoise
+h1 {
+    color: darkturquoise
 }
 
-#f
-{
-    height:360px;
-    width:395px;
+#f {
+    height: 360px;
+    width: 395px;
     transition: transform .2s;
 }
